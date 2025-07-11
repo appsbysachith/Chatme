@@ -1,16 +1,27 @@
-# five
+# 🟢 ChatMe — Flutter Chat App
 
-A new Flutter project.
+A lightweight mobile chat application built with **Flutter** + **Firebase**, featuring:
 
-## Getting Started
+- 🔐 Email/password authentication
+- 💬 Real-time messaging with Firestore
+- 📇 Contact management system
+- 🖼️ Profile picture upload using Cloudinary
+- 🌱 State management with Riverpod
+- 🚦 Navigation using GoRouter
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User Sign Up & Login
+- Add/Block Contacts
+- One-to-one Chat with Live Messages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Flutter, Riverpod, GoRouter
+- **Backend**: Firebase (Auth, Firestore), Cloudinary (for images)
+
